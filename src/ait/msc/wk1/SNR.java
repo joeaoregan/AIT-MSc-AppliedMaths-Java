@@ -7,7 +7,7 @@
  * 
  * Applied Maths Week1 Revision S21
  */
-pack
+
 package ait.msc.wk1;
 
 import java.text.DecimalFormat;
